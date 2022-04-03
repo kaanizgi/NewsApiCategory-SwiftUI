@@ -8,11 +8,6 @@
 import SwiftUI
 import SDWebImageSwiftUI
 
-
-
-import SwiftUI
-import SDWebImageSwiftUI
-
 struct NewsScreen: View {
     let data:News
     var body: some View {
